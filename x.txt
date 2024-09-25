@@ -1,0 +1,13 @@
+https://drive.google.com/drive/folders/1In5AUO1GFHV2Qm7xATzSKsutqL6iVr_-?usp=sharing
+
+\\192.168.1.18\Users\andres.santos.ASOPAGOS\Documents\x
+
+
+pcasopagos
+	192.168.1.18
+vmasopagos
+	192.168.1.20
+pcsantos
+	192.168.1.11
+vmsantos
+	192.168.1.12
